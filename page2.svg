@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="page2.svg.2014_03_18_22_39_26.0.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4082">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.44615385;"
+         offset="0"
+         id="stop4084" />
+      <stop
+         id="stop4090"
+         offset="0.00000004"
+         style="stop-color:#000000;stop-opacity:0;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4086" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4172">
+      <stop
+         style="stop-color:#e9e9e9;stop-opacity:1;"
+         offset="0"
+         id="stop4174" />
+      <stop
+         style="stop-color:#4e4e4e;stop-opacity:1;"
+         offset="1"
+         id="stop4176" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient4178"
+       x1="139.40105"
+       y1="98.525635"
+       x2="143.31912"
+       y2="103.32387"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4172-8">
+      <stop
+         style="stop-color:#e9e9e9;stop-opacity:0"
+         offset="0"
+         id="stop4174-5" />
+      <stop
+         style="stop-color:#4e4e4e;stop-opacity:1;"
+         offset="1"
+         id="stop4176-0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4082"
+       id="linearGradient4088"
+       x1="144.75526"
+       y1="155.47487"
+       x2="178.08003"
+       y2="124.50677"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(27.779195,-3.2829958)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient4124"
+       x1="540.27661"
+       y1="449.65912"
+       x2="540.95032"
+       y2="449.65912"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(16.162441,27.779195)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172-1"
+       id="linearGradient4124-6"
+       x1="540.27661"
+       y1="449.65912"
+       x2="540.95032"
+       y2="449.65912"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(16.162441,27.779195)" />
+    <linearGradient
+       id="linearGradient4172-1">
+      <stop
+         style="stop-color:#e9e9e9;stop-opacity:1;"
+         offset="0"
+         id="stop4174-1" />
+      <stop
+         style="stop-color:#4e4e4e;stop-opacity:1;"
+         offset="1"
+         id="stop4176-7" />
+    </linearGradient>
+    <linearGradient
+       y2="449.65912"
+       x2="540.95032"
+       y1="449.65912"
+       x1="540.27661"
+       gradientTransform="translate(127.83659,-569.38768)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4317"
+       xlink:href="#linearGradient4172-1"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172-1"
+       id="linearGradient4339"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,569.38768,127.83659)"
+       x1="540.27661"
+       y1="449.65912"
+       x2="540.95032"
+       y2="449.65912" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172-1"
+       id="linearGradient4346"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.04516131,0.99897971,-0.99897971,-0.04516131,593.88318,148.76025)"
+       x1="540.27661"
+       y1="449.65912"
+       x2="540.95032"
+       y2="449.65912" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172-1"
+       id="linearGradient4348"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.03136939,0.99950786,-0.99950786,0.03136939,549.06858,113.94702)"
+       x1="540.27661"
+       y1="449.65912"
+       x2="540.95032"
+       y2="449.65912" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="251.43272"
+     inkscape:cy="550.24802"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="876"
+     inkscape:window-x="1600"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ad9420;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="234.2169"
+       y="134.79343"
+       id="text3793"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3795"
+         x="234.2169"
+         y="134.79343">This is a magic wand.</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3799"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(18.795506,-110.42713)"><flowRegion
+         id="flowRegion3801"><rect
+           id="rect3803"
+           width="582.00012"
+           height="175.02611"
+           x="80.812202"
+           y="352.32648"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
+         id="flowPara4102">It's all well and good to say, &quot;these Meebles do what I tell them to,&quot; but how do the little critters tell you from Alice, Quincy, or Steve? Things are no good if anyone can impersonate anyone!</flowPara><flowPara
+         id="flowPara4112" /><flowPara
+         id="flowPara4114">Authentication is a tricky subject, but the Meebleverse tackles it with &quot;magic wands.&quot; A wand is like a remote control, and if you tune the Meebles to listen to one of your wands (and you're the only person with a copy of that wand), then they will only listen to you.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4a6ad0;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="559.93945"
+       y="428.70584"
+       id="text3858"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3860"
+         x="559.93945"
+         y="428.70584">15132b64f57...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="77.85714"
+       y="453.07648"
+       id="text3883"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="77.85714"
+         y="453.07648"
+         id="tspan3897">In order to give Meebles to anyone else, I have to be able to</tspan><tspan
+         sodipodi:role="line"
+         x="77.85714"
+         y="473.07648"
+         id="tspan4160">tune those Meebles to the other person's wand. But how</tspan><tspan
+         sodipodi:role="line"
+         x="77.85714"
+         y="493.07648"
+         id="tspan4164">can I tune them to a wand I don't have?</tspan><tspan
+         sodipodi:role="line"
+         x="77.85714"
+         y="513.07648"
+         id="tspan4168" /><tspan
+         sodipodi:role="line"
+         x="77.85714"
+         y="533.07648"
+         id="tspan4170">It's not as hard as it sounds. Each wand has an ID number printed on the side of it.</tspan><tspan
+         sodipodi:role="line"
+         x="77.85714"
+         y="553.07648"
+         id="tspan4172">This is perfectly safe to share with other people, as long as you don't give them a</tspan><tspan
+         sodipodi:role="line"
+         x="77.85714"
+         y="573.07648"
+         id="tspan4174">copy of the wand itself. And all you need, to tune a Meeble to a wand, is the ID</tspan><tspan
+         sodipodi:role="line"
+         x="77.85714"
+         y="593.07648"
+         id="tspan4176">number.</tspan></text>
+    <g
+       id="g3933"
+       transform="translate(26.428572,0.571429)">
+      <path
+         d="m 335.71428,419.50504 c 0,3.5504 -2.87817,6.42857 -6.42857,6.42857 -3.55041,0 -6.42858,-2.87817 -6.42858,-6.42857 0,-3.55041 2.87817,-6.42858 6.42858,-6.42858 3.5504,0 6.42857,2.87817 6.42857,6.42858 z"
+         sodipodi:ry="6.4285712"
+         sodipodi:rx="6.4285712"
+         sodipodi:cy="419.50504"
+         sodipodi:cx="329.28571"
+         id="path3899"
+         style="fill:#ad9420;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 335.71428,419.50504 c 0,3.5504 -2.87817,6.42857 -6.42857,6.42857 -3.55041,0 -6.42858,-2.87817 -6.42858,-6.42857 0,-3.55041 2.87817,-6.42858 6.42858,-6.42858 3.5504,0 6.42857,2.87817 6.42857,6.42858 z"
+         sodipodi:ry="6.4285712"
+         sodipodi:rx="6.4285712"
+         sodipodi:cy="419.50504"
+         sodipodi:cx="329.28571"
+         id="path3899-5"
+         style="fill:#ad9420;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="translate(19.999996,-1.5589903e-6)" />
+      <path
+         d="m 335.71428,419.50504 c 0,3.5504 -2.87817,6.42857 -6.42857,6.42857 -3.55041,0 -6.42858,-2.87817 -6.42858,-6.42857 0,-3.55041 2.87817,-6.42858 6.42858,-6.42858 3.5504,0 6.42857,2.87817 6.42857,6.42858 z"
+         sodipodi:ry="6.4285712"
+         sodipodi:rx="6.4285712"
+         sodipodi:cy="419.50504"
+         sodipodi:cx="329.28571"
+         id="path3899-4"
+         style="fill:#ad9420;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="translate(39.999996,-1.5589903e-6)" />
+    </g>
+    <g
+       id="g3933-9"
+       transform="translate(26.428572,190.73522)">
+      <path
+         d="m 335.71428,419.50504 c 0,3.5504 -2.87817,6.42857 -6.42857,6.42857 -3.55041,0 -6.42858,-2.87817 -6.42858,-6.42857 0,-3.55041 2.87817,-6.42858 6.42858,-6.42858 3.5504,0 6.42857,2.87817 6.42857,6.42858 z"
+         sodipodi:ry="6.4285712"
+         sodipodi:rx="6.4285712"
+         sodipodi:cy="419.50504"
+         sodipodi:cx="329.28571"
+         id="path3899-0"
+         style="fill:#ad9420;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 335.71428,419.50504 c 0,3.5504 -2.87817,6.42857 -6.42857,6.42857 -3.55041,0 -6.42858,-2.87817 -6.42858,-6.42857 0,-3.55041 2.87817,-6.42858 6.42858,-6.42858 3.5504,0 6.42857,2.87817 6.42857,6.42858 z"
+         sodipodi:ry="6.4285712"
+         sodipodi:rx="6.4285712"
+         sodipodi:cy="419.50504"
+         sodipodi:cx="329.28571"
+         id="path3899-5-6"
+         style="fill:#ad9420;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="translate(19.999996,-1.5589903e-6)" />
+      <path
+         d="m 335.71428,419.50504 c 0,3.5504 -2.87817,6.42857 -6.42857,6.42857 -3.55041,0 -6.42858,-2.87817 -6.42858,-6.42857 0,-3.55041 2.87817,-6.42858 6.42858,-6.42858 3.5504,0 6.42857,2.87817 6.42857,6.42858 z"
+         sodipodi:ry="6.4285712"
+         sodipodi:rx="6.4285712"
+         sodipodi:cy="419.50504"
+         sodipodi:cx="329.28571"
+         id="path3899-4-4"
+         style="fill:#ad9420;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="translate(39.999996,-1.5589903e-6)" />
+    </g>
+    <path
+       style="fill:#ad9420;fill-opacity:1;stroke:none"
+       d="m 104.90412,725.7644 -37.359117,4.19076 4.985778,-16.1826 z"
+       id="path4047"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ad9420;fill-opacity:1;stroke:none"
+       d="M 105.8899,719.69948 57.333976,702.72185 69.37859,683.48041 z"
+       id="path4049"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ad9420;fill-opacity:1;stroke:none"
+       d="m 130.16178,726.67308 16.19884,9.02636 -0.0243,-6.06087 z"
+       id="path4051"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ad9420;fill-opacity:1;stroke:none"
+       d="m 180.65683,723.43971 -57.57418,1.24149 59.56199,-9.33077 z"
+       id="path4053"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="100.25891"
+       y="836.93506"
+       id="text4055"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4057"
+         x="100.25891"
+         y="836.93506">Pop.</tspan></text>
+    <g
+       id="g3933-9-5"
+       transform="translate(26.428572,447.15152)">
+      <path
+         d="m 335.71428,419.50504 c 0,3.5504 -2.87817,6.42857 -6.42857,6.42857 -3.55041,0 -6.42858,-2.87817 -6.42858,-6.42857 0,-3.55041 2.87817,-6.42858 6.42858,-6.42858 3.5504,0 6.42857,2.87817 6.42857,6.42858 z"
+         sodipodi:ry="6.4285712"
+         sodipodi:rx="6.4285712"
+         sodipodi:cy="419.50504"
+         sodipodi:cx="329.28571"
+         id="path3899-0-6"
+         style="fill:#ad9420;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 335.71428,419.50504 c 0,3.5504 -2.87817,6.42857 -6.42857,6.42857 -3.55041,0 -6.42858,-2.87817 -6.42858,-6.42857 0,-3.55041 2.87817,-6.42858 6.42858,-6.42858 3.5504,0 6.42857,2.87817 6.42857,6.42858 z"
+         sodipodi:ry="6.4285712"
+         sodipodi:rx="6.4285712"
+         sodipodi:cy="419.50504"
+         sodipodi:cx="329.28571"
+         id="path3899-5-6-7"
+         style="fill:#ad9420;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="translate(19.999996,-1.5589903e-6)" />
+      <path
+         d="m 335.71428,419.50504 c 0,3.5504 -2.87817,6.42857 -6.42857,6.42857 -3.55041,0 -6.42858,-2.87817 -6.42858,-6.42857 0,-3.55041 2.87817,-6.42858 6.42858,-6.42858 3.5504,0 6.42857,2.87817 6.42857,6.42858 z"
+         sodipodi:ry="6.4285712"
+         sodipodi:rx="6.4285712"
+         sodipodi:cy="419.50504"
+         sodipodi:cx="329.28571"
+         id="path3899-4-4-4"
+         style="fill:#ad9420;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="translate(39.999996,-1.5589903e-6)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="154.8405"
+       y="905.55219"
+       id="text4086"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4088"
+         x="154.8405"
+         y="905.55219">But where do Meebles come from? Guess I better read Page 3 of</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4a6ad0;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="39"
+       y="971.93359"
+       id="text4090"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4092"
+         x="39"
+         y="971.93359">The Layman's Guide to Meebles</tspan></text>
+    <g
+       id="g4042">
+      <path
+         transform="matrix(0.50247544,0,-0.16359666,0.54069766,185.03128,168.47845)"
+         d="m 147.48228,74.029442 a 22.223356,21.718279 0 1 1 -44.44672,0 22.223356,21.718279 0 1 1 44.44672,0 z"
+         sodipodi:ry="21.718279"
+         sodipodi:rx="22.223356"
+         sodipodi:cy="74.029442"
+         sodipodi:cx="125.25892"
+         id="path4132-4"
+         style="fill:#4e4e4e;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4152"
+         d="M 142.43151,74.534519 246.35467,200.0893 226.27417,217.97618 109.09647,98.77818 z"
+         style="fill:url(#linearGradient4178);fill-opacity:1;stroke:none" />
+      <path
+         transform="matrix(0.76554736,0,-0.24924798,0.74277533,61.131484,45.767795)"
+         d="m 147.48228,74.029442 a 22.223356,21.718279 0 1 1 -44.44672,0 22.223356,21.718279 0 1 1 44.44672,0 z"
+         sodipodi:ry="21.718279"
+         sodipodi:rx="22.223356"
+         sodipodi:cy="74.029442"
+         sodipodi:cx="125.25892"
+         id="path4132-2"
+         style="fill:#e9e9e9;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         style="fill:url(#linearGradient4088);fill-opacity:1;stroke:none"
+         d="m 143.90611,74.154826 -33.34375,24.249998 117.1875,119.187506 0.0625,-0.0625 c 1.41947,1.46058 3.4677,2.34375 5.96875,2.34375 6.16719,0 12.75646,-5.26451 14.71875,-11.75 0.98687,-3.26166 0.6165,-6.21582 -0.78125,-8.34375 l 0.0937,-0.0625 -103.9062,-125.562504 z"
+         id="path4132-4-5"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.8267873,0,-0.26918657,0.76744185,42.63432,30.348133)"
+         d="m 147.48228,74.029442 a 22.223356,21.718279 0 1 1 -44.44672,0 22.223356,21.718279 0 1 1 44.44672,0 z"
+         sodipodi:ry="21.718279"
+         sodipodi:rx="22.223356"
+         sodipodi:cy="74.029442"
+         sodipodi:cx="125.25892"
+         id="path4132"
+         style="fill:#d3d3d3;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <rect
+       style="fill:url(#linearGradient4124);fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4116"
+       width="160.61426"
+       height="7.0710678"
+       x="535.38086"
+       y="475.05997" />
+    <path
+       style="fill:none;stroke:#4a6ad0;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 549.5625 401.875 L 549.5625 443.1875 L 600.90625 443.1875 L 600.90625 450.71875 L 591.5625 450.71875 L 602.375 460.90625 L 613.15625 471.125 L 623.96875 460.90625 L 634.75 450.71875 L 625.40625 450.71875 L 625.40625 443.1875 L 676.75 443.1875 L 676.75 401.875 L 549.5625 401.875 z "
+       id="rect4126" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4258"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"><flowRegion
+         id="flowRegion4260"><rect
+           id="rect4262"
+           width="516.42859"
+           height="251.42857"
+           x="197.14285"
+           y="625.93359"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
+         id="flowPara4264">What happens if you lose your wand?</flowPara><flowPara
+         id="flowPara4266" /><flowPara
+         id="flowPara4274">If someone else gets a copy of it, they can control all your Meebles - and the first thing a nefarious thief would do, is retune them all to a wand that only thetheif owns. Now you can't control those Meebles, and the theif can.</flowPara><flowPara
+         id="flowPara4276" /><flowPara
+         id="flowPara4286">If you lose your wand, and don't have any backup copies, it's gone forever. There's no locksmith that could get it back - otherwise locksmiths would just steal everybody's Meebles. And since nobody can control the Meebles, no one owns them.</flowPara></flowRoot>    <path
+       style="fill:url(#linearGradient4346);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 116.72205,642.94114 -3.23044,71.45827 2.20344,-0.99526 0.80563,4.32205 1.92762,-3.19746 2.07908,1.06373 3.26997,-72.33238 z"
+       id="path4344"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:url(#linearGradient4348);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 117.36292,725.23486 -2.09779,5.8812 -3.51143,-3.29772 2.63405,83.92743 7.05903,-0.22155 -2.70953,-86.33249 z"
+       id="rect4116-2"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
