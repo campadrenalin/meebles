@@ -14,7 +14,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="page3.svg">
   <defs
      id="defs4">
@@ -86,26 +86,6 @@
          offset="1"
          id="stop4176-7" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4172-1"
-       id="linearGradient4346"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.04516131,0.99897971,-0.99897971,-0.04516131,593.88318,148.76025)"
-       x1="540.27661"
-       y1="449.65912"
-       x2="540.95032"
-       y2="449.65912" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4172-1"
-       id="linearGradient4348"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.03136939,0.99950786,-0.99950786,0.03136939,549.06858,113.94702)"
-       x1="540.27661"
-       y1="449.65912"
-       x2="540.95032"
-       y2="449.65912" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -116,14 +96,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="349.17637"
-     inkscape:cy="859.85496"
+     inkscape:cy="262.7212"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="876"
-     inkscape:window-x="1600"
-     inkscape:window-y="24"
+     inkscape:window-width="1024"
+     inkscape:window-height="548"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -133,7 +113,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -168,20 +148,9 @@
    style="font-style:italic;-inkscape-font-specification:Ubuntu Italic"
    id="flowSpan4480">allow for value to exist</flowSpan>.</flowPara><flowPara
          id="flowPara4482" /><flowPara
-         id="flowPara4484">So you have to pick one place, and say, any Meebles that can't trace their origin back to that place, aren't real Meebles. They're worthless fakes. All the real Meebles come from... Stick Mountain.</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="101.54728"
-       y="453.07648"
-       id="text3883"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="664.2821"
-         y="453.07648"
-         id="tspan4176">Why do we call it Stick Mountain? Because when you hit it, Meebles come out..</tspan></text>
-    <g
+         id="flowPara4484">So you have to pick one place, and say, any Meebles that can't trace their origin back to that place, aren't real Meebles. They're worthless fakes. All the real Meebles come from... Stick Mountain.</flowPara></flowRoot>    <g
        id="g3933"
-       transform="translate(26.428572,0.571429)">
+       transform="translate(26.428572,-25.428571)">
       <path
          d="m 335.71428,419.50504 c 0,3.5504 -2.87817,6.42857 -6.42857,6.42857 -3.55041,0 -6.42858,-2.87817 -6.42858,-6.42857 0,-3.55041 2.87817,-6.42858 6.42858,-6.42858 3.5504,0 6.42857,2.87817 6.42857,6.42858 z"
          sodipodi:ry="6.4285712"
@@ -214,7 +183,7 @@
     </g>
     <g
        id="g3933-9"
-       transform="translate(26.428572,190.73522)">
+       transform="translate(26.428572,182.73522)">
       <path
          d="m 335.71428,419.50504 c 0,3.5504 -2.87817,6.42857 -6.42857,6.42857 -3.55041,0 -6.42858,-2.87817 -6.42858,-6.42857 0,-3.55041 2.87817,-6.42858 6.42858,-6.42858 3.5504,0 6.42857,2.87817 6.42857,6.42858 z"
          sodipodi:ry="6.4285712"
@@ -245,40 +214,9 @@
          sodipodi:type="arc"
          transform="translate(39.999996,-1.5589903e-6)" />
     </g>
-    <path
-       style="fill:#ad9420;fill-opacity:1;stroke:none"
-       d="m 104.90412,725.7644 -37.359117,4.19076 4.985778,-16.1826 z"
-       id="path4047"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ad9420;fill-opacity:1;stroke:none"
-       d="M 105.8899,719.69948 57.333976,702.72185 69.37859,683.48041 z"
-       id="path4049"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ad9420;fill-opacity:1;stroke:none"
-       d="m 130.16178,726.67308 16.19884,9.02636 -0.0243,-6.06087 z"
-       id="path4051"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ad9420;fill-opacity:1;stroke:none"
-       d="m 180.65683,723.43971 -57.57418,1.24149 59.56199,-9.33077 z"
-       id="path4053"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="100.25891"
-       y="836.93506"
-       id="text4055"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4057"
-         x="100.25891"
-         y="836.93506">Pop.</tspan></text>
     <g
        id="g3933-9-5"
-       transform="translate(26.428572,447.15152)">
+       transform="translate(26.428572,449.15152)">
       <path
          d="m 335.71428,419.50504 c 0,3.5504 -2.87817,6.42857 -6.42857,6.42857 -3.55041,0 -6.42858,-2.87817 -6.42858,-6.42857 0,-3.55041 2.87817,-6.42858 6.42858,-6.42858 3.5504,0 6.42857,2.87817 6.42857,6.42858 z"
          sodipodi:ry="6.4285712"
@@ -319,7 +257,7 @@
          sodipodi:role="line"
          id="tspan4088"
          x="154.8405"
-         y="905.55219">But where do Meebles come from? Guess I better read Page 3 of</tspan></text>
+         y="905.55219">Where does splitting come in? Guess I better read Page 4 of</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4a6ad0;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -334,29 +272,20 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4258"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"><flowRegion
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-124.24877,-4.0406102)"><flowRegion
          id="flowRegion4260"><rect
            id="rect4262"
-           width="516.42859"
-           height="251.42857"
+           width="618.45398"
+           height="263.55035"
            x="197.14285"
            y="625.93359"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
-         id="flowPara4264">What happens if you lose your wand?</flowPara><flowPara
-         id="flowPara4266" /><flowPara
-         id="flowPara4274">If someone else gets a copy of it, they can control all your Meebles - and the first thing a nefarious thief would do, is retune them all to a wand that only thetheif owns. Now you can't control those Meebles, and the theif can.</flowPara><flowPara
-         id="flowPara4276" /><flowPara
-         id="flowPara4286">If you lose your wand, and don't have any backup copies, it's gone forever. There's no locksmith that could get it back - otherwise locksmiths would just steal everybody's Meebles. And since nobody can control the Meebles, no one owns them.</flowPara></flowRoot>    <path
-       style="fill:url(#linearGradient4346);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 116.72205,642.94114 -3.23044,71.45827 2.20344,-0.99526 0.80563,4.32205 1.92762,-3.19746 2.07908,1.06373 3.26997,-72.33238 z"
-       id="path4344"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:url(#linearGradient4348);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 117.36292,725.23486 -2.09779,5.8812 -3.51143,-3.29772 2.63405,83.92743 7.05903,-0.22155 -2.70953,-86.33249 z"
-       id="rect4116-2"
-       inkscape:connector-curvature="0" />
-    <path
+         id="flowPara4286">Why not just hand out Meebles to people randomly?</flowPara><flowPara
+         id="flowPara3282" /><flowPara
+         id="flowPara3284">First of all, the system authorizes by wand, not by person. And anyone can just make billions of wands, which cheats any hand-out-to-random-wand approach.</flowPara><flowPara
+         id="flowPara3286" /><flowPara
+         id="flowPara3288">Not only that, but Meeble retuning (and thus, transfer of ownership) is dependent on the vibration of Stick Mountain. Without vibration (or even with &quot;bad vibration&quot;), no one can steal your stuff, but you might be prevented from controlling it yourself! And the randomness guarantees that bad vibrators can't block anyone for very long - they just can't win consistently.</flowPara></flowRoot>    <path
        style="fill:#8d8d8d;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m 557.60421,173.02439 6.06091,-13.63706 11.11168,-1.01015 -2.02031,-15.15229 35.35534,-21.2132 7.07107,-34.345191 36.36549,-36.365492 48.48733,49.497473 18.18275,72.22591 z"
        id="path4469"
@@ -383,7 +312,7 @@
            height="66.670067"
            x="87.88327"
            y="453.34174" /></flowRegion><flowPara
-         id="flowPara4527"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4527" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4529"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:16px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -393,5 +322,21 @@
            height="140.41121"
            x="103.03556"
            y="453.34174" /></flowRegion><flowPara
-         id="flowPara4535"></flowPara></flowRoot>  </g>
+         id="flowPara4535" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3256"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       transform="translate(0,-48)"><flowRegion
+         id="flowRegion3258"><rect
+           id="rect3260"
+           width="621.24377"
+           height="181.8275"
+           x="75.761444"
+           y="462.43311" /></flowRegion><flowPara
+         id="flowPara3262"
+         style="font-size:16px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">Why do we call it Stick Mountain? Because when you hit it with a stick, Meebles come out. But not every time - if you want new Meebles, you have to hit Stick Mountain many times if you hope to get any.</flowPara><flowPara
+         style="font-size:16px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowPara3264" /><flowPara
+         style="font-size:16px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowPara3266">To make it even tougher, the Meebles come in batches, and you have a ton of people all trying to win the batch, beating on the mountain with as many sticks as they can afford. The odds of success get adjusted so that no matter how much the mount is beaten, it will release a batch around every 10 minutes.</flowPara></flowRoot>  </g>
 </svg>
